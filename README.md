@@ -45,7 +45,7 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 * Python
   
 * Pandas
-* 
+  
 * Scikit-learn
   
 * Imbalanced-learn (SMOTE)
@@ -141,5 +141,5 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 
 * Hyperparameter Tuning
 
----
+
 
